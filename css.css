@@ -71,3 +71,9 @@ p{
 .button3{
   color: hsl(179, 100%, 13%);
 }
+@media screen and (max-device-width:1280){
+  main{
+    display:flex;
+    flex-direction:column;
+  }
+}
