@@ -77,3 +77,9 @@ p{
     flex-direction:column;
   }
 }
+@media screen and (max-width:1280){
+  body{
+    display:flex;
+    flex-direction:column;
+  }
+}
